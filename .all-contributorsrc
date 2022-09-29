@@ -21,10 +21,19 @@
         "review",
         "infra"
       ]
+    },
+    {
+      "login": "tenshiamd",
+      "name": "Angel Aviel Domaoan",
+      "avatar_url": "https://avatars.githubusercontent.com/u/13580338?v=4",
+      "profile": "https://tenshiamd.com",
+      "contributions": [
+        "doc"
+      ]
     }
   ],
   "projectName": "sepal-doc",
-  "projectOwner": "openforis",
+  "projectOwner": "tenshiAMD",
   "repoType": "github",
   "repoHost": "https://github.com"
 }
