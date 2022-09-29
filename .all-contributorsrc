@@ -5,6 +5,7 @@
   "imageSize": 100,
   "contributorsPerLine": 7,
   "contributorsSortAlphabetically": false,
+  "badgeTemplate":  "<img src=\"https://img.shields.io/badge/all_contributors-<%= contributors.length %>-orange.svg?style=flat-square\" alt=\"All contributors\">",
   "skipCi": true,
   "contributors": [
     {
